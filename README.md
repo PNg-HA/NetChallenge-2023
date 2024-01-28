@@ -1,5 +1,5 @@
 # Net challenge 2023 vòng 2
-
+PDF version: [Here](./pdf_edition.pdf).
 ![Untitled](Net%20challenge%202023%20vo%CC%80ng%202%206a2237e0d07446bda32c524a89fc878f/Untitled.png)
 
 ![Untitled](Net%20challenge%202023%20vo%CC%80ng%202%206a2237e0d07446bda32c524a89fc878f/Untitled%201.png)
